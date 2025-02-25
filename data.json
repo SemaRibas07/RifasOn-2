@@ -1,0 +1,21 @@
+{
+  "tickets": {
+    "total": 10,
+    "price": 10,
+    "sold": 0,
+    "reserved": 0,
+    "revenue": 0,
+    "goal": 100
+  },
+  "prizes": [],
+  "buyers": [],
+  "notifications": [
+    {
+      "id": 1740525115784,
+      "message": "Configurações salvas com sucesso!",
+      "type": "success",
+      "timestamp": "2025-02-25T23:11:55.784Z",
+      "read": false
+    }
+  ]
+}
