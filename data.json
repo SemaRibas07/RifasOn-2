@@ -7,7 +7,14 @@
     "revenue": 0,
     "goal": 500
   },
-  "prizes": [],
+  "prizes": [
+    {
+      "name": "1º Prêmio",
+      "description": "R$1000,00",
+      "imageUrl": "https://dialogando.com.br/wp-content/uploads/2023/02/GettyImages-1384322683.jpg",
+      "id": 1740525322684
+    }
+  ],
   "buyers": [],
   "notifications": [
     {
