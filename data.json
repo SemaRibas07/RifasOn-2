@@ -7,16 +7,16 @@
     "revenue": 0,
     "goal": 1000
   },
-  "prizes": [
-    {
-      "name": "1º Prêmio",
-      "description": "2 super livros: Até que nada mais importe + De Todo Coração",
-      "imageUrl": "https://photos.fife.usercontent.google.com/pw/AP1GczPS82kr5vNxP8xDlU_b110m5ZGWBUDJFRbYQSLCICz63Uv0EnplvcY0=w880-h880-s-no-gm?authuser=0",
-      "id": 1740527698451
-    }
-  ],
+  "prizes": [],
   "buyers": [],
   "notifications": [
+    {
+      "id": 1740527842711,
+      "message": "O prêmio \"1º Prêmio\" foi excluído com sucesso.",
+      "type": "success",
+      "timestamp": "2025-02-25T23:57:22.711Z",
+      "read": false
+    },
     {
       "id": 1740527681209,
       "message": "O prêmio \"1º Prêmio\" foi excluído com sucesso.",
