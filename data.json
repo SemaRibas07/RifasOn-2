@@ -1,98 +1,13 @@
 {
   "tickets": {
-    "total": 100,
-    "price": 5,
+    "total": 0,
+    "price": 0,
     "sold": 0,
     "reserved": 0,
     "revenue": 0,
-    "goal": 500
+    "goal": 0
   },
-  "prizes": [
-    {
-      "name": "1º Prêmio",
-      "description": "R$1000,00",
-      "imageUrl": "https://dialogando.com.br/wp-content/uploads/2023/02/GettyImages-1384322683.jpg",
-      "id": 1740525322684
-    }
-  ],
+  "prizes": [],
   "buyers": [],
-  "notifications": [
-    {
-      "id": 1740525294820,
-      "message": "Configurações salvas com sucesso!",
-      "type": "success",
-      "timestamp": "2025-02-25T23:14:54.820Z",
-      "read": false
-    },
-    {
-      "id": 1740523515362,
-      "message": "Comprador Semaías Ribas foi removido com sucesso.",
-      "type": "info",
-      "timestamp": "2025-02-25T22:45:15.362Z",
-      "read": false
-    },
-    {
-      "id": 1740518207784,
-      "message": "Semaías Ribas comprou os números: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10",
-      "type": "success",
-      "timestamp": "2025-02-25T21:16:47.784Z",
-      "read": false
-    },
-    {
-      "id": 1740517750483,
-      "message": "Configurações salvas com sucesso!",
-      "type": "success",
-      "timestamp": "2025-02-25T21:09:10.483Z",
-      "read": false
-    },
-    {
-      "id": 1740517731747,
-      "message": "Comprador Nícolas Ribas foi removido com sucesso.",
-      "type": "info",
-      "timestamp": "2025-02-25T21:08:51.747Z",
-      "read": false
-    },
-    {
-      "id": 1740517728956,
-      "message": "Comprador Nívio Batista foi removido com sucesso.",
-      "type": "info",
-      "timestamp": "2025-02-25T21:08:48.956Z",
-      "read": false
-    },
-    {
-      "id": 1740517726586,
-      "message": "Comprador Carol Rodrigues foi removido com sucesso.",
-      "type": "info",
-      "timestamp": "2025-02-25T21:08:46.586Z",
-      "read": false
-    },
-    {
-      "id": 1740517724243,
-      "message": "Comprador Pedro Henrique foi removido com sucesso.",
-      "type": "info",
-      "timestamp": "2025-02-25T21:08:44.243Z",
-      "read": false
-    },
-    {
-      "id": 1740517721660,
-      "message": "Comprador Semaías Ribas foi removido com sucesso.",
-      "type": "info",
-      "timestamp": "2025-02-25T21:08:41.660Z",
-      "read": false
-    },
-    {
-      "id": 1740517713818,
-      "message": "O prêmio \"2º Prêmio\" foi excluído com sucesso.",
-      "type": "success",
-      "timestamp": "2025-02-25T21:08:33.818Z",
-      "read": false
-    },
-    {
-      "id": 1740517710561,
-      "message": "O prêmio \"1º Prêmio\" foi excluído com sucesso.",
-      "type": "success",
-      "timestamp": "2025-02-25T21:08:30.561Z",
-      "read": false
-    }
-  ]
+  "notifications": []
 }
