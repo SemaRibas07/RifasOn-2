@@ -7,7 +7,14 @@
     "revenue": 0,
     "goal": 1000
   },
-  "prizes": [],
+  "prizes": [
+    {
+      "name": "1º Prêmio",
+      "description": "2 super livros: Até que nada mais importe + De Todo Coração",
+      "imageUrl": "https://photos.app.goo.gl/p93pTAeJwjT5dB1m8",
+      "id": 1740527451783
+    }
+  ],
   "buyers": [],
   "notifications": [
     {
