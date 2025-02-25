@@ -15,7 +15,28 @@
       "id": 1740525322684
     }
   ],
-  "buyers": [],
+  "buyers": [
+    {
+      "id": 1740525369608,
+      "name": "Semaías Ribas",
+      "numbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "isReserved": true,
+      "reservationEnd": "2025-02-25T23:17:09.608Z",
+      "timestamp": "2025-02-25T23:16:09.608Z",
+      "timerId": 8
+    }
+  ],
   "notifications": [
     {
       "id": 1740525294820,
