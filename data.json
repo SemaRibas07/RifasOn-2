@@ -1,11 +1,11 @@
 {
   "tickets": {
-    "total": 0,
-    "price": 0,
+    "total": 100,
+    "price": 10,
     "sold": 0,
     "reserved": 0,
     "revenue": 0,
-    "goal": 0
+    "goal": 1000
   },
   "prizes": [],
   "buyers": [],
