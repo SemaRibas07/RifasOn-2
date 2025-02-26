@@ -15,29 +15,15 @@
       "id": 1740525322684
     }
   ],
-  "buyers": [
-    {
-      "id": 1740581108177,
-      "name": "Semaías Ribas",
-      "numbers": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10
-      ],
-      "isReserved": true,
-      "reservationEnd": "2025-02-26T14:46:00.000Z",
-      "timestamp": "2025-02-26T14:45:08.177Z",
-      "timerId": 1
-    }
-  ],
+  "buyers": [],
   "notifications": [
+    {
+      "id": 1740581170951,
+      "message": "Comprador Semaías Ribas foi removido com sucesso.",
+      "type": "info",
+      "timestamp": "2025-02-26T14:46:10.951Z",
+      "read": false
+    },
     {
       "id": 1740581160185,
       "message": "A reserva dos números do comprador Semaías Ribas expirou e foi removida.",
