@@ -34,9 +34,35 @@
       "isReserved": false,
       "reservationEnd": null,
       "timestamp": "2025-02-26T14:50:34.121Z"
+    },
+    {
+      "id": 1740581453656,
+      "name": "Nícolas Ribas",
+      "numbers": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "isReserved": false,
+      "reservationEnd": null,
+      "timestamp": "2025-02-26T14:50:53.656Z"
     }
   ],
   "notifications": [
+    {
+      "id": 1740581453658,
+      "message": "Nícolas Ribas comprou os números: 11, 12, 13, 14, 15, 16, 17, 18, 19, 20",
+      "type": "success",
+      "timestamp": "2025-02-26T14:50:53.658Z",
+      "read": false
+    },
     {
       "id": 1740581434123,
       "message": "Semaías Ribas comprou os números: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10",
