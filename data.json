@@ -474,9 +474,28 @@
       "isReserved": false,
       "reservationEnd": null,
       "timestamp": "2025-02-26T00:22:53.264Z"
+    },
+    {
+      "id": 1740529391848,
+      "name": "Augusto Rodrigues",
+      "numbers": [
+        21,
+        32
+      ],
+      "isReserved": true,
+      "reservationEnd": "2025-02-27T16:05:11.848Z",
+      "timestamp": "2025-02-26T00:23:11.848Z",
+      "timerId": 256
     }
   ],
   "notifications": [
+    {
+      "id": 1740529391852,
+      "message": "Augusto Rodrigues reservou os números: 21, 32",
+      "type": "success",
+      "timestamp": "2025-02-26T00:23:11.852Z",
+      "read": false
+    },
     {
       "id": 1740529373270,
       "message": "Genilda comprou os números: 4, 9",
