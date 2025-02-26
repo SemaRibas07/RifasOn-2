@@ -452,9 +452,27 @@
       "isReserved": false,
       "reservationEnd": null,
       "timestamp": "2025-02-26T00:22:29.800Z"
+    },
+    {
+      "id": 1740529359807,
+      "name": "Adaraci",
+      "numbers": [
+        11,
+        14
+      ],
+      "isReserved": false,
+      "reservationEnd": null,
+      "timestamp": "2025-02-26T00:22:39.807Z"
     }
   ],
   "notifications": [
+    {
+      "id": 1740529359810,
+      "message": "Adaraci comprou os números: 11, 14",
+      "type": "success",
+      "timestamp": "2025-02-26T00:22:39.810Z",
+      "read": false
+    },
     {
       "id": 1740529349804,
       "message": "Natan comprou os números: 65, 66",
