@@ -51,9 +51,31 @@
       "isReserved": false,
       "reservationEnd": null,
       "timestamp": "2025-02-26T00:04:21.456Z"
+    },
+    {
+      "id": 1740528302676,
+      "name": "Luciano Rodrigues",
+      "numbers": [
+        45,
+        46,
+        47,
+        48,
+        49,
+        50
+      ],
+      "isReserved": false,
+      "reservationEnd": null,
+      "timestamp": "2025-02-26T00:05:02.676Z"
     }
   ],
   "notifications": [
+    {
+      "id": 1740528302677,
+      "message": "Luciano Rodrigues comprou os números: 45, 46, 47, 48, 49, 50",
+      "type": "success",
+      "timestamp": "2025-02-26T00:05:02.677Z",
+      "read": false
+    },
     {
       "id": 1740528261457,
       "message": "Willian Soares comprou os números: 26, 51, 54, 59",
