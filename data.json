@@ -110,9 +110,27 @@
       "isReserved": false,
       "reservationEnd": null,
       "timestamp": "2025-02-26T00:06:15.124Z"
+    },
+    {
+      "id": 1740528395978,
+      "name": "Kátia Rodrigues",
+      "numbers": [
+        17,
+        25
+      ],
+      "isReserved": false,
+      "reservationEnd": null,
+      "timestamp": "2025-02-26T00:06:35.978Z"
     }
   ],
   "notifications": [
+    {
+      "id": 1740528395980,
+      "message": "Kátia Rodrigues comprou os números: 17, 25",
+      "type": "success",
+      "timestamp": "2025-02-26T00:06:35.980Z",
+      "read": false
+    },
     {
       "id": 1740528375126,
       "message": "Vânia comprou os números: 5, 20",
