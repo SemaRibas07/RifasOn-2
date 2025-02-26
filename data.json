@@ -80,6 +80,13 @@
   ],
   "notifications": [
     {
+      "id": 1740580800866,
+      "message": "A reserva dos números do comprador Nícolas Ribas expirou e foi removida.",
+      "type": "warning",
+      "timestamp": "2025-02-26T14:40:00.866Z",
+      "read": false
+    },
+    {
       "id": 1740580723087,
       "message": "Nícolas Ribas reservou os números: 31, 32, 33, 34, 35, 36, 37, 38, 39, 40",
       "type": "success",
