@@ -8,26 +8,14 @@
     "goal": 1000
   },
   "prizes": [],
-  "buyers": [
+  "buyers": [],
+  "notifications": [
     {
-      "id": 1740577679798,
-      "name": "Semaías Ribas",
-      "numbers": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10
-      ],
-      "isReserved": true,
-      "reservationEnd": "2025-01-27T18:00:00.000Z",
-      "timestamp": "2025-02-26T13:47:59.798Z"
+      "id": 1740577712855,
+      "message": "Comprador Semaías Ribas foi removido com sucesso.",
+      "type": "info",
+      "timestamp": "2025-02-26T13:48:32.855Z",
+      "read": false
     }
-  ],
-  "notifications": []
+  ]
 }
