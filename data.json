@@ -18,6 +18,13 @@
   "buyers": [],
   "notifications": [
     {
+      "id": 1740573967675,
+      "message": "Os números devem estar entre 1 e 0",
+      "type": "warning",
+      "timestamp": "2025-02-26T12:46:07.675Z",
+      "read": false
+    },
+    {
       "id": 1740573960338,
       "message": "Não há compradores confirmados para realizar o sorteio.",
       "type": "warning",
