@@ -172,9 +172,26 @@
       "isReserved": false,
       "reservationEnd": null,
       "timestamp": "2025-02-26T00:08:19.375Z"
+    },
+    {
+      "id": 1740528511023,
+      "name": "Lídia Maria da Silva",
+      "numbers": [
+        7
+      ],
+      "isReserved": false,
+      "reservationEnd": null,
+      "timestamp": "2025-02-26T00:08:31.023Z"
     }
   ],
   "notifications": [
+    {
+      "id": 1740528511025,
+      "message": "Lídia Maria da Silva comprou os números: 7",
+      "type": "success",
+      "timestamp": "2025-02-26T00:08:31.025Z",
+      "read": false
+    },
     {
       "id": 1740528499377,
       "message": "Rute comprou os números: 29",
