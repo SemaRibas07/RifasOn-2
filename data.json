@@ -312,9 +312,26 @@
       "isReserved": false,
       "reservationEnd": null,
       "timestamp": "2025-02-26T00:11:26.255Z"
+    },
+    {
+      "id": 1740528701503,
+      "name": "Adilson Alcantra",
+      "numbers": [
+        34
+      ],
+      "isReserved": false,
+      "reservationEnd": null,
+      "timestamp": "2025-02-26T00:11:41.503Z"
     }
   ],
   "notifications": [
+    {
+      "id": 1740528701506,
+      "message": "Adilson Alcantra comprou os números: 34",
+      "type": "success",
+      "timestamp": "2025-02-26T00:11:41.506Z",
+      "read": false
+    },
     {
       "id": 1740528686258,
       "message": "Edna Alcantra comprou os números: 8",
