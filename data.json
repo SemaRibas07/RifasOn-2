@@ -343,9 +343,28 @@
       "isReserved": false,
       "reservationEnd": null,
       "timestamp": "2025-02-26T00:12:07.613Z"
+    },
+    {
+      "id": 1740528877005,
+      "name": "Zetinha",
+      "numbers": [
+        13,
+        23
+      ],
+      "isReserved": true,
+      "reservationEnd": "2025-02-28T13:14:37.005Z",
+      "timestamp": "2025-02-26T00:14:37.005Z",
+      "timerId": 152
     }
   ],
   "notifications": [
+    {
+      "id": 1740528877008,
+      "message": "Zetinha reservou os números: 13, 23",
+      "type": "success",
+      "timestamp": "2025-02-26T00:14:37.008Z",
+      "read": false
+    },
     {
       "id": 1740528727615,
       "message": "Iracema comprou os números: 12, 31",
