@@ -77,9 +77,27 @@
       "isReserved": false,
       "reservationEnd": null,
       "timestamp": "2025-02-26T00:05:22.541Z"
+    },
+    {
+      "id": 1740528336824,
+      "name": "Joseildes Santos Lavigne",
+      "numbers": [
+        30,
+        33
+      ],
+      "isReserved": false,
+      "reservationEnd": null,
+      "timestamp": "2025-02-26T00:05:36.824Z"
     }
   ],
   "notifications": [
+    {
+      "id": 1740528336826,
+      "message": "Joseildes Santos Lavigne comprou os números: 30, 33",
+      "type": "success",
+      "timestamp": "2025-02-26T00:05:36.826Z",
+      "read": false
+    },
     {
       "id": 1740528322542,
       "message": "Isabella Vallentina de Almeida Santana comprou os números: 64, 70",
