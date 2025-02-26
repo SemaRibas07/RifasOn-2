@@ -132,9 +132,26 @@
       "isReserved": false,
       "reservationEnd": null,
       "timestamp": "2025-02-26T00:07:03.179Z"
+    },
+    {
+      "id": 1740528454959,
+      "name": "Aline Dorneles",
+      "numbers": [
+        41
+      ],
+      "isReserved": false,
+      "reservationEnd": null,
+      "timestamp": "2025-02-26T00:07:34.959Z"
     }
   ],
   "notifications": [
+    {
+      "id": 1740528454961,
+      "message": "Aline Dorneles comprou os números: 41",
+      "type": "success",
+      "timestamp": "2025-02-26T00:07:34.961Z",
+      "read": false
+    },
     {
       "id": 1740528423182,
       "message": "Ediluza Meira Gonçalves comprou os números: 10, 38",
