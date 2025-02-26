@@ -15,8 +15,35 @@
       "id": 1740573696386
     }
   ],
-  "buyers": [],
+  "buyers": [
+    {
+      "id": 1740573979531,
+      "name": "Semaías Ribas",
+      "numbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "isReserved": false,
+      "reservationEnd": null,
+      "timestamp": "2025-02-26T12:46:19.531Z"
+    }
+  ],
   "notifications": [
+    {
+      "id": 1740573979532,
+      "message": "Semaías Ribas comprou os números: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10",
+      "type": "success",
+      "timestamp": "2025-02-26T12:46:19.532Z",
+      "read": false
+    },
     {
       "id": 1740573974587,
       "message": "Configurações salvas com sucesso!",
