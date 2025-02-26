@@ -19,14 +19,16 @@
       "description": "R$500,00",
       "imageUrl": "https://dialogando.com.br/wp-content/uploads/2023/02/GettyImages-1384322683.jpg",
       "id": 1740573711050
-    },
-    {
-      "name": "3º Prêmio",
-      "description": "R$250,00",
-      "imageUrl": "https://dialogando.com.br/wp-content/uploads/2023/02/GettyImages-1384322683.jpg",
-      "id": 1740573724812
     }
   ],
   "buyers": [],
-  "notifications": []
+  "notifications": [
+    {
+      "id": 1740573952053,
+      "message": "O prêmio \"3º Prêmio\" foi excluído com sucesso.",
+      "type": "success",
+      "timestamp": "2025-02-26T12:45:52.053Z",
+      "read": false
+    }
+  ]
 }
