@@ -32,6 +32,13 @@
   ],
   "notifications": [
     {
+      "id": 1740577920622,
+      "message": "A reserva dos números do comprador Semaías Ribas expirou e foi removida.",
+      "type": "warning",
+      "timestamp": "2025-02-26T13:52:00.622Z",
+      "read": false
+    },
+    {
       "id": 1740577913617,
       "message": "Semaías Ribas reservou os números: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10",
       "type": "success",
