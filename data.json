@@ -355,9 +355,27 @@
       "reservationEnd": "2025-02-28T13:14:37.005Z",
       "timestamp": "2025-02-26T00:14:37.005Z",
       "timerId": 152
+    },
+    {
+      "id": 1740528957199,
+      "name": "Beatriz Matos",
+      "numbers": [
+        16,
+        28
+      ],
+      "isReserved": false,
+      "reservationEnd": null,
+      "timestamp": "2025-02-26T00:15:57.199Z"
     }
   ],
   "notifications": [
+    {
+      "id": 1740528957202,
+      "message": "Beatriz Matos comprou os números: 16, 28",
+      "type": "success",
+      "timestamp": "2025-02-26T00:15:57.202Z",
+      "read": false
+    },
     {
       "id": 1740528877008,
       "message": "Zetinha reservou os números: 13, 23",
