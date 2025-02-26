@@ -66,9 +66,27 @@
       "isReserved": false,
       "reservationEnd": null,
       "timestamp": "2025-02-26T00:05:02.676Z"
+    },
+    {
+      "id": 1740528322541,
+      "name": "Isabella Vallentina de Almeida Santana",
+      "numbers": [
+        64,
+        70
+      ],
+      "isReserved": false,
+      "reservationEnd": null,
+      "timestamp": "2025-02-26T00:05:22.541Z"
     }
   ],
   "notifications": [
+    {
+      "id": 1740528322542,
+      "message": "Isabella Vallentina de Almeida Santana comprou os números: 64, 70",
+      "type": "success",
+      "timestamp": "2025-02-26T00:05:22.542Z",
+      "read": false
+    },
     {
       "id": 1740528302677,
       "message": "Luciano Rodrigues comprou os números: 45, 46, 47, 48, 49, 50",
