@@ -38,6 +38,13 @@
   ],
   "notifications": [
     {
+      "id": 1740573993226,
+      "message": "Parabéns! Semaías Ribas ganhou o prêmio: 1º Prêmio!",
+      "type": "success",
+      "timestamp": "2025-02-26T12:46:33.226Z",
+      "read": false
+    },
+    {
       "id": 1740573979532,
       "message": "Semaías Ribas comprou os números: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10",
       "type": "success",
