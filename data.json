@@ -248,9 +248,26 @@
       "isReserved": false,
       "reservationEnd": null,
       "timestamp": "2025-02-26T00:10:03.756Z"
+    },
+    {
+      "id": 1740528617691,
+      "name": "Olga Ribas",
+      "numbers": [
+        3
+      ],
+      "isReserved": false,
+      "reservationEnd": null,
+      "timestamp": "2025-02-26T00:10:17.691Z"
     }
   ],
   "notifications": [
+    {
+      "id": 1740528617694,
+      "message": "Olga Ribas comprou os números: 3",
+      "type": "success",
+      "timestamp": "2025-02-26T00:10:17.694Z",
+      "read": false
+    },
     {
       "id": 1740528603758,
       "message": "Sophia Barreto Oliveira comprou os números: 62, 73",
