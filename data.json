@@ -237,9 +237,27 @@
       "isReserved": false,
       "reservationEnd": null,
       "timestamp": "2025-02-26T00:09:52.067Z"
+    },
+    {
+      "id": 1740528603756,
+      "name": "Sophia Barreto Oliveira",
+      "numbers": [
+        62,
+        73
+      ],
+      "isReserved": false,
+      "reservationEnd": null,
+      "timestamp": "2025-02-26T00:10:03.756Z"
     }
   ],
   "notifications": [
+    {
+      "id": 1740528603758,
+      "message": "Sophia Barreto Oliveira comprou os números: 62, 73",
+      "type": "success",
+      "timestamp": "2025-02-26T00:10:03.758Z",
+      "read": false
+    },
     {
       "id": 1740528592070,
       "message": "Sophia Rodrigues comprou os números: 61",
