@@ -510,9 +510,28 @@
       "isReserved": false,
       "reservationEnd": null,
       "timestamp": "2025-02-26T00:23:35.923Z"
+    },
+    {
+      "id": 1740529427907,
+      "name": "Valter",
+      "numbers": [
+        80,
+        81,
+        82
+      ],
+      "isReserved": false,
+      "reservationEnd": null,
+      "timestamp": "2025-02-26T00:23:47.907Z"
     }
   ],
   "notifications": [
+    {
+      "id": 1740529427910,
+      "message": "Valter comprou os números: 80, 81, 82",
+      "type": "success",
+      "timestamp": "2025-02-26T00:23:47.910Z",
+      "read": false
+    },
     {
       "id": 1740529415926,
       "message": "Carol Rodrigues comprou os números: 42, 43, 161, 162",
