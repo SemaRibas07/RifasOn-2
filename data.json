@@ -345,18 +345,6 @@
       "timestamp": "2025-02-26T00:12:07.613Z"
     },
     {
-      "id": 1740528877005,
-      "name": "Zetinha",
-      "numbers": [
-        13,
-        23
-      ],
-      "isReserved": true,
-      "reservationEnd": "2025-02-28T13:14:37.005Z",
-      "timestamp": "2025-02-26T00:14:37.005Z",
-      "timerId": 152
-    },
-    {
       "id": 1740528957199,
       "name": "Beatriz Matos",
       "numbers": [
@@ -431,6 +419,13 @@
     }
   ],
   "notifications": [
+    {
+      "id": 1740529161022,
+      "message": "Você pode editar os dados do comprador no formulário acima.",
+      "type": "info",
+      "timestamp": "2025-02-26T00:19:21.022Z",
+      "read": false
+    },
     {
       "id": 1740529137963,
       "message": "Raíssa Arruda reservou os números: 44",
