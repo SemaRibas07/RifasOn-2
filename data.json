@@ -376,9 +376,26 @@
       "isReserved": false,
       "reservationEnd": null,
       "timestamp": "2025-02-26T00:16:09.060Z"
+    },
+    {
+      "id": 1740528978664,
+      "name": "Raphael Costa",
+      "numbers": [
+        24
+      ],
+      "isReserved": false,
+      "reservationEnd": null,
+      "timestamp": "2025-02-26T00:16:18.664Z"
     }
   ],
   "notifications": [
+    {
+      "id": 1740528978667,
+      "message": "Raphael Costa comprou os números: 24",
+      "type": "success",
+      "timestamp": "2025-02-26T00:16:18.667Z",
+      "read": false
+    },
     {
       "id": 1740528969064,
       "message": "Pr. Joselito comprou os números: 19",
