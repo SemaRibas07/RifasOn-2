@@ -84,9 +84,35 @@
       "isReserved": false,
       "reservationEnd": null,
       "timestamp": "2025-02-26T13:13:32.223Z"
+    },
+    {
+      "id": 1740576293866,
+      "name": "Fulano",
+      "numbers": [
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50
+      ],
+      "isReserved": true,
+      "reservationEnd": "2025-02-27T18:00:00.000Z",
+      "timestamp": "2025-02-26T13:24:53.866Z"
     }
   ],
   "notifications": [
+    {
+      "id": 1740576293868,
+      "message": "Fulano reservou os números: 41, 42, 43, 44, 45, 46, 47, 48, 49, 50",
+      "type": "success",
+      "timestamp": "2025-02-26T13:24:53.868Z",
+      "read": false
+    },
     {
       "id": 1740576004482,
       "message": "parseTicketNumbers is not defined",
