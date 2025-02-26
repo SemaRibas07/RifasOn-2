@@ -65,9 +65,35 @@
       "isReserved": false,
       "reservationEnd": null,
       "timestamp": "2025-02-26T13:13:18.530Z"
+    },
+    {
+      "id": 1740575612223,
+      "name": "Adriano Rezende",
+      "numbers": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40
+      ],
+      "isReserved": false,
+      "reservationEnd": null,
+      "timestamp": "2025-02-26T13:13:32.223Z"
     }
   ],
   "notifications": [
+    {
+      "id": 1740575612224,
+      "message": "Adriano Rezende comprou os números: 31, 32, 33, 34, 35, 36, 37, 38, 39, 40",
+      "type": "success",
+      "timestamp": "2025-02-26T13:13:32.224Z",
+      "read": false
+    },
     {
       "id": 1740575598531,
       "message": "Carol Rodrigues comprou os números: 21, 22, 23, 24, 25, 26, 27, 28, 29, 30",
