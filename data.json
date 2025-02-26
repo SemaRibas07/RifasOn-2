@@ -182,9 +182,27 @@
       "isReserved": false,
       "reservationEnd": null,
       "timestamp": "2025-02-26T00:08:31.023Z"
+    },
+    {
+      "id": 1740528524092,
+      "name": "Vera Lúcia Oliveira",
+      "numbers": [
+        76,
+        87
+      ],
+      "isReserved": false,
+      "reservationEnd": null,
+      "timestamp": "2025-02-26T00:08:44.092Z"
     }
   ],
   "notifications": [
+    {
+      "id": 1740528524093,
+      "message": "Vera Lúcia Oliveira comprou os números: 76, 87",
+      "type": "success",
+      "timestamp": "2025-02-26T00:08:44.093Z",
+      "read": false
+    },
     {
       "id": 1740528511025,
       "message": "Lídia Maria da Silva comprou os números: 7",
