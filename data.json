@@ -193,9 +193,27 @@
       "isReserved": false,
       "reservationEnd": null,
       "timestamp": "2025-02-26T00:08:44.092Z"
+    },
+    {
+      "id": 1740528537115,
+      "name": "George Ferraz Pereira",
+      "numbers": [
+        75,
+        85
+      ],
+      "isReserved": false,
+      "reservationEnd": null,
+      "timestamp": "2025-02-26T00:08:57.115Z"
     }
   ],
   "notifications": [
+    {
+      "id": 1740528537118,
+      "message": "George Ferraz Pereira comprou os números: 75, 85",
+      "type": "success",
+      "timestamp": "2025-02-26T00:08:57.118Z",
+      "read": false
+    },
     {
       "id": 1740528524093,
       "message": "Vera Lúcia Oliveira comprou os números: 76, 87",
