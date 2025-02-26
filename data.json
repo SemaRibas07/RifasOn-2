@@ -417,9 +417,27 @@
       "isReserved": false,
       "reservationEnd": null,
       "timestamp": "2025-02-26T00:16:53.703Z"
+    },
+    {
+      "id": 1740529137959,
+      "name": "Raíssa Arruda",
+      "numbers": [
+        44
+      ],
+      "isReserved": true,
+      "reservationEnd": "2025-02-27T16:00:57.959Z",
+      "timestamp": "2025-02-26T00:18:57.959Z",
+      "timerId": 189
     }
   ],
   "notifications": [
+    {
+      "id": 1740529137963,
+      "message": "Raíssa Arruda reservou os números: 44",
+      "type": "success",
+      "timestamp": "2025-02-26T00:18:57.963Z",
+      "read": false
+    },
     {
       "id": 1740529013706,
       "message": "Andrea Dorneles comprou os números: 36",
