@@ -279,9 +279,39 @@
       "isReserved": false,
       "reservationEnd": null,
       "timestamp": "2025-02-26T00:10:48.527Z"
+    },
+    {
+      "id": 1740528662983,
+      "name": "Jaqueline Sandes",
+      "numbers": [
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103
+      ],
+      "isReserved": false,
+      "reservationEnd": null,
+      "timestamp": "2025-02-26T00:11:02.983Z"
     }
   ],
   "notifications": [
+    {
+      "id": 1740528662986,
+      "message": "Jaqueline Sandes comprou os números: 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103",
+      "type": "success",
+      "timestamp": "2025-02-26T00:11:02.986Z",
+      "read": false
+    },
     {
       "id": 1740528648530,
       "message": "Adriano Rezende comprou os números: 56, 58",
