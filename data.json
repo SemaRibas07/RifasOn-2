@@ -258,9 +258,26 @@
       "isReserved": false,
       "reservationEnd": null,
       "timestamp": "2025-02-26T00:10:17.691Z"
+    },
+    {
+      "id": 1740528631903,
+      "name": "Maria de Lourdes",
+      "numbers": [
+        22
+      ],
+      "isReserved": false,
+      "reservationEnd": null,
+      "timestamp": "2025-02-26T00:10:31.903Z"
     }
   ],
   "notifications": [
+    {
+      "id": 1740528631907,
+      "message": "Maria de Lourdes comprou os números: 22",
+      "type": "success",
+      "timestamp": "2025-02-26T00:10:31.907Z",
+      "read": false
+    },
     {
       "id": 1740528617694,
       "message": "Olga Ribas comprou os números: 3",
