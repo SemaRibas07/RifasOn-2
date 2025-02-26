@@ -441,9 +441,27 @@
       "isReserved": false,
       "reservationEnd": null,
       "timestamp": "2025-02-26T00:21:16.440Z"
+    },
+    {
+      "id": 1740529349800,
+      "name": "Natan",
+      "numbers": [
+        65,
+        66
+      ],
+      "isReserved": false,
+      "reservationEnd": null,
+      "timestamp": "2025-02-26T00:22:29.800Z"
     }
   ],
   "notifications": [
+    {
+      "id": 1740529349804,
+      "message": "Natan comprou os números: 65, 66",
+      "type": "success",
+      "timestamp": "2025-02-26T00:22:29.804Z",
+      "read": false
+    },
     {
       "id": 1740529306153,
       "message": "Os números 36 já estão reservados/vendidos",
