@@ -463,9 +463,27 @@
       "isReserved": false,
       "reservationEnd": null,
       "timestamp": "2025-02-26T00:22:39.807Z"
+    },
+    {
+      "id": 1740529373264,
+      "name": "Genilda",
+      "numbers": [
+        4,
+        9
+      ],
+      "isReserved": false,
+      "reservationEnd": null,
+      "timestamp": "2025-02-26T00:22:53.264Z"
     }
   ],
   "notifications": [
+    {
+      "id": 1740529373270,
+      "message": "Genilda comprou os números: 4, 9",
+      "type": "success",
+      "timestamp": "2025-02-26T00:22:53.270Z",
+      "read": false
+    },
     {
       "id": 1740529359810,
       "message": "Adaraci comprou os números: 11, 14",
