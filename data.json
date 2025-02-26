@@ -332,9 +332,27 @@
       "isReserved": false,
       "reservationEnd": null,
       "timestamp": "2025-02-26T00:11:53.146Z"
+    },
+    {
+      "id": 1740528727613,
+      "name": "Iracema",
+      "numbers": [
+        12,
+        31
+      ],
+      "isReserved": false,
+      "reservationEnd": null,
+      "timestamp": "2025-02-26T00:12:07.613Z"
     }
   ],
   "notifications": [
+    {
+      "id": 1740528727615,
+      "message": "Iracema comprou os números: 12, 31",
+      "type": "success",
+      "timestamp": "2025-02-26T00:12:07.615Z",
+      "read": false
+    },
     {
       "id": 1740528713149,
       "message": "Alana comprou os números: 2",
