@@ -445,6 +445,13 @@
   ],
   "notifications": [
     {
+      "id": 1740529306153,
+      "message": "Os números 36 já estão reservados/vendidos",
+      "type": "warning",
+      "timestamp": "2025-02-26T00:21:46.153Z",
+      "read": false
+    },
+    {
       "id": 1740529295848,
       "message": "Os números 37, 40 já estão reservados/vendidos",
       "type": "warning",
