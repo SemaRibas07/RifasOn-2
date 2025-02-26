@@ -34,9 +34,35 @@
       "isReserved": false,
       "reservationEnd": null,
       "timestamp": "2025-02-26T12:46:19.531Z"
+    },
+    {
+      "id": 1740574025158,
+      "name": "Nívio Batista",
+      "numbers": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "isReserved": false,
+      "reservationEnd": null,
+      "timestamp": "2025-02-26T12:47:05.158Z"
     }
   ],
   "notifications": [
+    {
+      "id": 1740574025159,
+      "message": "Nívio Batista comprou os números: 11, 12, 13, 14, 15, 16, 17, 18, 19, 20",
+      "type": "success",
+      "timestamp": "2025-02-26T12:47:05.159Z",
+      "read": false
+    },
     {
       "id": 1740574013923,
       "message": "Configurações salvas com sucesso!",
