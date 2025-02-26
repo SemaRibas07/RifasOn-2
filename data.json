@@ -103,9 +103,35 @@
       "isReserved": true,
       "reservationEnd": "2025-02-27T18:00:00.000Z",
       "timestamp": "2025-02-26T13:24:53.866Z"
+    },
+    {
+      "id": 1740576888299,
+      "name": "José",
+      "numbers": [
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70
+      ],
+      "isReserved": false,
+      "reservationEnd": null,
+      "timestamp": "2025-02-26T13:34:48.299Z"
     }
   ],
   "notifications": [
+    {
+      "id": 1740576888300,
+      "message": "José comprou os números: 61, 62, 63, 64, 65, 66, 67, 68, 69, 70",
+      "type": "success",
+      "timestamp": "2025-02-26T13:34:48.300Z",
+      "read": false
+    },
     {
       "id": 1740576293868,
       "message": "Fulano reservou os números: 41, 42, 43, 44, 45, 46, 47, 48, 49, 50",
