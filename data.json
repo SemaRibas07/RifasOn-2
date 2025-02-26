@@ -88,6 +88,13 @@
   ],
   "notifications": [
     {
+      "id": 1740575973410,
+      "message": "parseTicketNumbers is not defined",
+      "type": "warning",
+      "timestamp": "2025-02-26T13:19:33.410Z",
+      "read": false
+    },
+    {
       "id": 1740575612224,
       "message": "Adriano Rezende comprou os números: 31, 32, 33, 34, 35, 36, 37, 38, 39, 40",
       "type": "success",
