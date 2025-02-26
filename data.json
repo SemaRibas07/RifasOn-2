@@ -396,9 +396,27 @@
       "isReserved": false,
       "reservationEnd": null,
       "timestamp": "2025-02-26T00:16:31.097Z"
+    },
+    {
+      "id": 1740529002291,
+      "name": "Leidiane Rocha Farias",
+      "numbers": [
+        37,
+        40
+      ],
+      "isReserved": false,
+      "reservationEnd": null,
+      "timestamp": "2025-02-26T00:16:42.291Z"
     }
   ],
   "notifications": [
+    {
+      "id": 1740529002294,
+      "message": "Leidiane Rocha Farias comprou os números: 37, 40",
+      "type": "success",
+      "timestamp": "2025-02-26T00:16:42.294Z",
+      "read": false
+    },
     {
       "id": 1740528991100,
       "message": "Marilane comprou os números: 39",
