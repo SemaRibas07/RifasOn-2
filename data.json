@@ -366,9 +366,26 @@
       "isReserved": false,
       "reservationEnd": null,
       "timestamp": "2025-02-26T00:15:57.199Z"
+    },
+    {
+      "id": 1740528969060,
+      "name": "Pr. Joselito",
+      "numbers": [
+        19
+      ],
+      "isReserved": false,
+      "reservationEnd": null,
+      "timestamp": "2025-02-26T00:16:09.060Z"
     }
   ],
   "notifications": [
+    {
+      "id": 1740528969064,
+      "message": "Pr. Joselito comprou os números: 19",
+      "type": "success",
+      "timestamp": "2025-02-26T00:16:09.064Z",
+      "read": false
+    },
     {
       "id": 1740528957202,
       "message": "Beatriz Matos comprou os números: 16, 28",
