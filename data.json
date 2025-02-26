@@ -407,9 +407,26 @@
       "isReserved": false,
       "reservationEnd": null,
       "timestamp": "2025-02-26T00:16:42.291Z"
+    },
+    {
+      "id": 1740529013703,
+      "name": "Andrea Dorneles",
+      "numbers": [
+        36
+      ],
+      "isReserved": false,
+      "reservationEnd": null,
+      "timestamp": "2025-02-26T00:16:53.703Z"
     }
   ],
   "notifications": [
+    {
+      "id": 1740529013706,
+      "message": "Andrea Dorneles comprou os números: 36",
+      "type": "success",
+      "timestamp": "2025-02-26T00:16:53.706Z",
+      "read": false
+    },
     {
       "id": 1740529002294,
       "message": "Leidiane Rocha Farias comprou os números: 37, 40",
