@@ -1,11 +1,11 @@
 {
   "tickets": {
-    "total": 10,
+    "total": 100,
     "price": 10,
     "sold": 0,
     "reserved": 0,
     "revenue": 0,
-    "goal": 100
+    "goal": 1000
   },
   "prizes": [
     {
@@ -37,6 +37,13 @@
     }
   ],
   "notifications": [
+    {
+      "id": 1740574013923,
+      "message": "Configurações salvas com sucesso!",
+      "type": "success",
+      "timestamp": "2025-02-26T12:46:53.923Z",
+      "read": false
+    },
     {
       "id": 1740573993226,
       "message": "Parabéns! Semaías Ribas ganhou o prêmio: 1º Prêmio!",
