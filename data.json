@@ -56,9 +56,36 @@
       "isReserved": false,
       "reservationEnd": null,
       "timestamp": "2025-02-26T13:53:13.398Z"
+    },
+    {
+      "id": 1740580723086,
+      "name": "Nícolas Ribas",
+      "numbers": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40
+      ],
+      "isReserved": true,
+      "reservationEnd": "2025-02-26T14:40:00.000Z",
+      "timestamp": "2025-02-26T14:38:43.086Z",
+      "timerId": 1
     }
   ],
   "notifications": [
+    {
+      "id": 1740580723087,
+      "message": "Nícolas Ribas reservou os números: 31, 32, 33, 34, 35, 36, 37, 38, 39, 40",
+      "type": "success",
+      "timestamp": "2025-02-26T14:38:43.087Z",
+      "read": false
+    },
     {
       "id": 1740577927084,
       "message": "Comprador Semaías Ribas foi removido com sucesso.",
