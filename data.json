@@ -18,6 +18,13 @@
   "buyers": [],
   "notifications": [
     {
+      "id": 1740573960338,
+      "message": "Não há compradores confirmados para realizar o sorteio.",
+      "type": "warning",
+      "timestamp": "2025-02-26T12:46:00.338Z",
+      "read": false
+    },
+    {
       "id": 1740573955658,
       "message": "O prêmio \"2º Prêmio\" foi excluído com sucesso.",
       "type": "success",
