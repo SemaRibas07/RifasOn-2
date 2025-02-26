@@ -497,9 +497,29 @@
       "isReserved": false,
       "reservationEnd": null,
       "timestamp": "2025-02-26T00:23:25.280Z"
+    },
+    {
+      "id": 1740529415923,
+      "name": "Carol Rodrigues",
+      "numbers": [
+        42,
+        43,
+        161,
+        162
+      ],
+      "isReserved": false,
+      "reservationEnd": null,
+      "timestamp": "2025-02-26T00:23:35.923Z"
     }
   ],
   "notifications": [
+    {
+      "id": 1740529415926,
+      "message": "Carol Rodrigues comprou os números: 42, 43, 161, 162",
+      "type": "success",
+      "timestamp": "2025-02-26T00:23:35.926Z",
+      "read": false
+    },
     {
       "id": 1740529405284,
       "message": "Semaías Ribas comprou os números: 1, 35",
