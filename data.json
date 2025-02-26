@@ -486,9 +486,27 @@
       "reservationEnd": "2025-02-27T16:05:11.848Z",
       "timestamp": "2025-02-26T00:23:11.848Z",
       "timerId": 256
+    },
+    {
+      "id": 1740529405280,
+      "name": "Semaías Ribas",
+      "numbers": [
+        1,
+        35
+      ],
+      "isReserved": false,
+      "reservationEnd": null,
+      "timestamp": "2025-02-26T00:23:25.280Z"
     }
   ],
   "notifications": [
+    {
+      "id": 1740529405284,
+      "message": "Semaías Ribas comprou os números: 1, 35",
+      "type": "success",
+      "timestamp": "2025-02-26T00:23:25.284Z",
+      "read": false
+    },
     {
       "id": 1740529391852,
       "message": "Augusto Rodrigues reservou os números: 21, 32",
