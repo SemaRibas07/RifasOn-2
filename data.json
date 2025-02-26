@@ -152,9 +152,26 @@
       "isReserved": false,
       "reservationEnd": null,
       "timestamp": "2025-02-26T00:07:49.427Z"
+    },
+    {
+      "id": 1740528486179,
+      "name": "Isis Alcântara",
+      "numbers": [
+        15
+      ],
+      "isReserved": false,
+      "reservationEnd": null,
+      "timestamp": "2025-02-26T00:08:06.179Z"
     }
   ],
   "notifications": [
+    {
+      "id": 1740528486181,
+      "message": "Isis Alcântara comprou os números: 15",
+      "type": "success",
+      "timestamp": "2025-02-26T00:08:06.181Z",
+      "read": false
+    },
     {
       "id": 1740528469428,
       "message": "Miralva comprou os números: 18",
