@@ -204,9 +204,29 @@
       "isReserved": false,
       "reservationEnd": null,
       "timestamp": "2025-02-26T00:08:57.115Z"
+    },
+    {
+      "id": 1740528551923,
+      "name": "Maria Creuza Silva Oliveira",
+      "numbers": [
+        77,
+        79,
+        84,
+        86
+      ],
+      "isReserved": false,
+      "reservationEnd": null,
+      "timestamp": "2025-02-26T00:09:11.923Z"
     }
   ],
   "notifications": [
+    {
+      "id": 1740528551925,
+      "message": "Maria Creuza Silva Oliveira comprou os números: 77, 79, 84, 86",
+      "type": "success",
+      "timestamp": "2025-02-26T00:09:11.925Z",
+      "read": false
+    },
     {
       "id": 1740528537118,
       "message": "George Ferraz Pereira comprou os números: 75, 85",
