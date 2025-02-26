@@ -386,9 +386,26 @@
       "isReserved": false,
       "reservationEnd": null,
       "timestamp": "2025-02-26T00:16:18.664Z"
+    },
+    {
+      "id": 1740528991097,
+      "name": "Marilane",
+      "numbers": [
+        39
+      ],
+      "isReserved": false,
+      "reservationEnd": null,
+      "timestamp": "2025-02-26T00:16:31.097Z"
     }
   ],
   "notifications": [
+    {
+      "id": 1740528991100,
+      "message": "Marilane comprou os números: 39",
+      "type": "success",
+      "timestamp": "2025-02-26T00:16:31.100Z",
+      "read": false
+    },
     {
       "id": 1740528978667,
       "message": "Raphael Costa comprou os números: 24",
