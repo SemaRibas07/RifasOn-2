@@ -1,11 +1,11 @@
 {
   "tickets": {
-    "total": 0,
-    "price": 0,
+    "total": 10,
+    "price": 10,
     "sold": 0,
     "reserved": 0,
     "revenue": 0,
-    "goal": 0
+    "goal": 100
   },
   "prizes": [
     {
@@ -17,6 +17,13 @@
   ],
   "buyers": [],
   "notifications": [
+    {
+      "id": 1740573974587,
+      "message": "Configurações salvas com sucesso!",
+      "type": "success",
+      "timestamp": "2025-02-26T12:46:14.587Z",
+      "read": false
+    },
     {
       "id": 1740573967675,
       "message": "Os números devem estar entre 1 e 0",
