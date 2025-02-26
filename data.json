@@ -416,9 +416,28 @@
       "reservationEnd": "2025-02-27T16:00:57.959Z",
       "timestamp": "2025-02-26T00:18:57.959Z",
       "timerId": 189
+    },
+    {
+      "id": 1740529175236,
+      "name": "Zetinha",
+      "numbers": [
+        13,
+        23
+      ],
+      "isReserved": true,
+      "reservationEnd": "2025-02-27T16:01:35.236Z",
+      "timestamp": "2025-02-26T00:19:35.236Z",
+      "timerId": 202
     }
   ],
   "notifications": [
+    {
+      "id": 1740529175240,
+      "message": "Zetinha reservou os números: 13, 23",
+      "type": "success",
+      "timestamp": "2025-02-26T00:19:35.240Z",
+      "read": false
+    },
     {
       "id": 1740529161022,
       "message": "Você pode editar os dados do comprador no formulário acima.",
