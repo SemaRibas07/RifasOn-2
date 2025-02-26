@@ -99,9 +99,27 @@
       "isReserved": false,
       "reservationEnd": null,
       "timestamp": "2025-02-26T00:05:49.599Z"
+    },
+    {
+      "id": 1740528375124,
+      "name": "Vânia",
+      "numbers": [
+        5,
+        20
+      ],
+      "isReserved": false,
+      "reservationEnd": null,
+      "timestamp": "2025-02-26T00:06:15.124Z"
     }
   ],
   "notifications": [
+    {
+      "id": 1740528375126,
+      "message": "Vânia comprou os números: 5, 20",
+      "type": "success",
+      "timestamp": "2025-02-26T00:06:15.126Z",
+      "read": false
+    },
     {
       "id": 1740528349601,
       "message": "Geane de Oliveira comprou os números: 6, 27",
