@@ -142,9 +142,26 @@
       "isReserved": false,
       "reservationEnd": null,
       "timestamp": "2025-02-26T00:07:34.959Z"
+    },
+    {
+      "id": 1740528469427,
+      "name": "Miralva",
+      "numbers": [
+        18
+      ],
+      "isReserved": false,
+      "reservationEnd": null,
+      "timestamp": "2025-02-26T00:07:49.427Z"
     }
   ],
   "notifications": [
+    {
+      "id": 1740528469428,
+      "message": "Miralva comprou os números: 18",
+      "type": "success",
+      "timestamp": "2025-02-26T00:07:49.428Z",
+      "read": false
+    },
     {
       "id": 1740528454961,
       "message": "Aline Dorneles comprou os números: 41",
