@@ -445,6 +445,13 @@
   ],
   "notifications": [
     {
+      "id": 1740529285375,
+      "message": "Os números 39 já estão reservados/vendidos",
+      "type": "warning",
+      "timestamp": "2025-02-26T00:21:25.375Z",
+      "read": false
+    },
+    {
       "id": 1740529276445,
       "message": "Ademir Junior comprou os números: 52, 53, 55, 160",
       "type": "success",
