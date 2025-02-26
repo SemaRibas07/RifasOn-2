@@ -65,28 +65,16 @@
       "isReserved": false,
       "reservationEnd": null,
       "timestamp": "2025-02-26T14:59:13.729Z"
-    },
-    {
-      "id": 1740582205612,
-      "name": "Adriano Rezende",
-      "numbers": [
-        41,
-        42,
-        43,
-        44,
-        45,
-        46,
-        47,
-        48,
-        49,
-        50
-      ],
-      "isReserved": false,
-      "reservationEnd": null,
-      "timestamp": "2025-02-26T15:03:25.612Z"
     }
   ],
   "notifications": [
+    {
+      "id": 1740583422010,
+      "message": "Comprador Adriano Rezende foi removido com sucesso.",
+      "type": "info",
+      "timestamp": "2025-02-26T15:23:42.010Z",
+      "read": false
+    },
     {
       "id": 1740582205613,
       "message": "Dashboard atualizado automaticamente!",
