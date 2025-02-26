@@ -268,9 +268,27 @@
       "isReserved": false,
       "reservationEnd": null,
       "timestamp": "2025-02-26T00:10:31.903Z"
+    },
+    {
+      "id": 1740528648527,
+      "name": "Adriano Rezende",
+      "numbers": [
+        56,
+        58
+      ],
+      "isReserved": false,
+      "reservationEnd": null,
+      "timestamp": "2025-02-26T00:10:48.527Z"
     }
   ],
   "notifications": [
+    {
+      "id": 1740528648530,
+      "message": "Adriano Rezende comprou os números: 56, 58",
+      "type": "success",
+      "timestamp": "2025-02-26T00:10:48.530Z",
+      "read": false
+    },
     {
       "id": 1740528631907,
       "message": "Maria de Lourdes comprou os números: 22",
