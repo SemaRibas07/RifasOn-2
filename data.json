@@ -302,9 +302,26 @@
       "isReserved": false,
       "reservationEnd": null,
       "timestamp": "2025-02-26T00:11:02.983Z"
+    },
+    {
+      "id": 1740528686255,
+      "name": "Edna Alcantra",
+      "numbers": [
+        8
+      ],
+      "isReserved": false,
+      "reservationEnd": null,
+      "timestamp": "2025-02-26T00:11:26.255Z"
     }
   ],
   "notifications": [
+    {
+      "id": 1740528686258,
+      "message": "Edna Alcantra comprou os números: 8",
+      "type": "success",
+      "timestamp": "2025-02-26T00:11:26.258Z",
+      "read": false
+    },
     {
       "id": 1740528662986,
       "message": "Jaqueline Sandes comprou os números: 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103",
