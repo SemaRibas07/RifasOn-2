@@ -88,9 +88,27 @@
       "isReserved": false,
       "reservationEnd": null,
       "timestamp": "2025-02-26T00:05:36.824Z"
+    },
+    {
+      "id": 1740528349599,
+      "name": "Geane de Oliveira",
+      "numbers": [
+        6,
+        27
+      ],
+      "isReserved": false,
+      "reservationEnd": null,
+      "timestamp": "2025-02-26T00:05:49.599Z"
     }
   ],
   "notifications": [
+    {
+      "id": 1740528349601,
+      "message": "Geane de Oliveira comprou os números: 6, 27",
+      "type": "success",
+      "timestamp": "2025-02-26T00:05:49.601Z",
+      "read": false
+    },
     {
       "id": 1740528336826,
       "message": "Joseildes Santos Lavigne comprou os números: 30, 33",
