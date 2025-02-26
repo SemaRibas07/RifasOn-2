@@ -428,9 +428,29 @@
       "reservationEnd": "2025-02-27T16:01:35.236Z",
       "timestamp": "2025-02-26T00:19:35.236Z",
       "timerId": 202
+    },
+    {
+      "id": 1740529276440,
+      "name": "Ademir Junior",
+      "numbers": [
+        52,
+        53,
+        55,
+        160
+      ],
+      "isReserved": false,
+      "reservationEnd": null,
+      "timestamp": "2025-02-26T00:21:16.440Z"
     }
   ],
   "notifications": [
+    {
+      "id": 1740529276445,
+      "message": "Ademir Junior comprou os números: 52, 53, 55, 160",
+      "type": "success",
+      "timestamp": "2025-02-26T00:21:16.445Z",
+      "read": false
+    },
     {
       "id": 1740529271162,
       "message": "Você pode editar os dados do comprador no formulário acima.",
