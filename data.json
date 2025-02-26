@@ -227,9 +227,26 @@
       "isReserved": false,
       "reservationEnd": null,
       "timestamp": "2025-02-26T00:09:41.259Z"
+    },
+    {
+      "id": 1740528592067,
+      "name": "Sophia Rodrigues",
+      "numbers": [
+        61
+      ],
+      "isReserved": false,
+      "reservationEnd": null,
+      "timestamp": "2025-02-26T00:09:52.067Z"
     }
   ],
   "notifications": [
+    {
+      "id": 1740528592070,
+      "message": "Sophia Rodrigues comprou os números: 61",
+      "type": "success",
+      "timestamp": "2025-02-26T00:09:52.070Z",
+      "read": false
+    },
     {
       "id": 1740528581261,
       "message": "Raony Dias Almeida comprou os números: 69",
