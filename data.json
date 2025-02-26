@@ -121,9 +121,27 @@
       "isReserved": false,
       "reservationEnd": null,
       "timestamp": "2025-02-26T00:06:35.978Z"
+    },
+    {
+      "id": 1740528423179,
+      "name": "Ediluza Meira Gonçalves",
+      "numbers": [
+        10,
+        38
+      ],
+      "isReserved": false,
+      "reservationEnd": null,
+      "timestamp": "2025-02-26T00:07:03.179Z"
     }
   ],
   "notifications": [
+    {
+      "id": 1740528423182,
+      "message": "Ediluza Meira Gonçalves comprou os números: 10, 38",
+      "type": "success",
+      "timestamp": "2025-02-26T00:07:03.182Z",
+      "read": false
+    },
     {
       "id": 1740528395980,
       "message": "Kátia Rodrigues comprou os números: 17, 25",
