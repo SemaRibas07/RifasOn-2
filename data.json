@@ -88,6 +88,13 @@
   ],
   "notifications": [
     {
+      "id": 1740576004482,
+      "message": "parseTicketNumbers is not defined",
+      "type": "warning",
+      "timestamp": "2025-02-26T13:20:04.482Z",
+      "read": false
+    },
+    {
       "id": 1740575984955,
       "message": "Configurações salvas com sucesso!",
       "type": "success",
