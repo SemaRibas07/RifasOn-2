@@ -27,9 +27,35 @@
       "isReserved": false,
       "reservationEnd": null,
       "timestamp": "2025-02-26T13:52:33.854Z"
+    },
+    {
+      "id": 1740581913932,
+      "name": "Nícolas Ribas",
+      "numbers": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40
+      ],
+      "isReserved": false,
+      "reservationEnd": null,
+      "timestamp": "2025-02-26T14:58:33.932Z"
     }
   ],
   "notifications": [
+    {
+      "id": 1740581913933,
+      "message": "Dashboard atualizado automaticamente!",
+      "type": "success",
+      "timestamp": "2025-02-26T14:58:33.933Z",
+      "read": false
+    },
     {
       "id": 1740581871890,
       "message": "Comprador Nícolas Ribas foi removido com sucesso.",
