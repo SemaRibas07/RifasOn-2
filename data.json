@@ -162,9 +162,26 @@
       "isReserved": false,
       "reservationEnd": null,
       "timestamp": "2025-02-26T00:08:06.179Z"
+    },
+    {
+      "id": 1740528499375,
+      "name": "Rute",
+      "numbers": [
+        29
+      ],
+      "isReserved": false,
+      "reservationEnd": null,
+      "timestamp": "2025-02-26T00:08:19.375Z"
     }
   ],
   "notifications": [
+    {
+      "id": 1740528499377,
+      "message": "Rute comprou os números: 29",
+      "type": "success",
+      "timestamp": "2025-02-26T00:08:19.377Z",
+      "read": false
+    },
     {
       "id": 1740528486181,
       "message": "Isis Alcântara comprou os números: 15",
