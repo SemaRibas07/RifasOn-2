@@ -217,9 +217,26 @@
       "isReserved": false,
       "reservationEnd": null,
       "timestamp": "2025-02-26T00:09:11.923Z"
+    },
+    {
+      "id": 1740528581259,
+      "name": "Raony Dias Almeida",
+      "numbers": [
+        69
+      ],
+      "isReserved": false,
+      "reservationEnd": null,
+      "timestamp": "2025-02-26T00:09:41.259Z"
     }
   ],
   "notifications": [
+    {
+      "id": 1740528581261,
+      "message": "Raony Dias Almeida comprou os números: 69",
+      "type": "success",
+      "timestamp": "2025-02-26T00:09:41.261Z",
+      "read": false
+    },
     {
       "id": 1740528551925,
       "message": "Maria Creuza Silva Oliveira comprou os números: 77, 79, 84, 86",
