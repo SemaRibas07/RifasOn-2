@@ -46,9 +46,35 @@
       "isReserved": false,
       "reservationEnd": null,
       "timestamp": "2025-02-26T14:58:33.932Z"
+    },
+    {
+      "id": 1740581953729,
+      "name": "Pedro Henrique",
+      "numbers": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "isReserved": false,
+      "reservationEnd": null,
+      "timestamp": "2025-02-26T14:59:13.729Z"
     }
   ],
   "notifications": [
+    {
+      "id": 1740581953731,
+      "message": "Dashboard atualizado automaticamente!",
+      "type": "success",
+      "timestamp": "2025-02-26T14:59:13.731Z",
+      "read": false
+    },
     {
       "id": 1740581913933,
       "message": "Dashboard atualizado automaticamente!",
