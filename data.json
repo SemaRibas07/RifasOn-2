@@ -27,8 +27,27 @@
       "id": 1740528002011
     }
   ],
-  "buyers": [],
+  "buyers": [
+    {
+      "id": 1740528230702,
+      "name": "Sophia Mendes",
+      "numbers": [
+        57,
+        60
+      ],
+      "isReserved": false,
+      "reservationEnd": null,
+      "timestamp": "2025-02-26T00:03:50.702Z"
+    }
+  ],
   "notifications": [
+    {
+      "id": 1740528230704,
+      "message": "Sophia Mendes comprou os números: 57, 60",
+      "type": "success",
+      "timestamp": "2025-02-26T00:03:50.704Z",
+      "read": false
+    },
     {
       "id": 1740527842711,
       "message": "O prêmio \"1º Prêmio\" foi excluído com sucesso.",
