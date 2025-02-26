@@ -8,8 +8,35 @@
     "goal": 1000
   },
   "prizes": [],
-  "buyers": [],
+  "buyers": [
+    {
+      "id": 1740577729285,
+      "name": "Semaías Ribas",
+      "numbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "isReserved": true,
+      "reservationEnd": "2025-02-27T18:00:00.000Z",
+      "timestamp": "2025-02-26T13:48:49.285Z"
+    }
+  ],
   "notifications": [
+    {
+      "id": 1740577729286,
+      "message": "Semaías Ribas reservou os números: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10",
+      "type": "success",
+      "timestamp": "2025-02-26T13:48:49.286Z",
+      "read": false
+    },
     {
       "id": 1740577712855,
       "message": "Comprador Semaías Ribas foi removido com sucesso.",
